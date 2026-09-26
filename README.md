@@ -15,8 +15,6 @@ scoop bucket add skriuw https://github.com/skriuw/homebrew-tap
 scoop install skriuw
 ```
 
-Windows is also on winget: `winget install RemcoStoeten.Skriuw`.
-
 Linux packages (apt, dnf, AUR, Snap) and direct downloads are listed on [skriuw.com/download](https://skriuw.com/download/).
 
 The manifests here are updated automatically when a v2 release is published. Do not edit `version` or the hashes by hand.
